@@ -8,7 +8,7 @@ export default defineConfig({
     outDir: 'docs',
     sourcemap: false
   },
-  base:"/reactclient/"
+  base:"/havenfricke/"
   // server: {
   //   port: 8080
   // }
