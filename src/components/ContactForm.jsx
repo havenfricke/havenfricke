@@ -25,7 +25,7 @@ const ContactForm = () => {
 
   return (
     <div className="row d-flex justify-content-center form">
-        <div className="col-xxl-6 col-xl-6 col-lg-6 col-12">
+        <div className="col-xxl-6 col-xl-6 col-lg-6 col-10">
         <form
       action={FORM_ENDPOINT}
       onSubmit={handleSubmit}

@@ -23,7 +23,7 @@ function ContactPage(){
              Contact
             </h1> 
           </div>
-        <div className="py-6">
+        <div className="py-6 container-fluid">
           <ContactForm />
         </div>
     </div>
