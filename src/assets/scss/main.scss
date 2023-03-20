@@ -1,0 +1,103 @@
+@import "./_variables.scss";
+@import "bootstrap";
+@import "./_overrides.scss";
+@import "./_utilities.scss";
+@import "./loaders.scss";
+
+body {
+  overscroll-behavior: none;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: var(--body-bg);
+}
+
+main {
+  flex-grow: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+textarea,
+select {
+  &:not(:placeholder-shown) {
+    &:valid {
+      border: 1px solid $success;
+    }
+    &:invalid {
+      border: 1px solid $danger;
+    }
+  }
+}
+
+form:invalid button[type="submit"] {
+  filter: grayscale(1);
+  pointer-events: none;
+}
+.profile-img {
+  object-fit: cover;
+}
+
+.graduated {
+  position: relative;
+  .profile-img {
+    border: 3px solid var(--bs-primary);
+    object-fit: cover;
+  }
+  &::after {
+    content: "🎓";
+    position: absolute;
+  }
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap');
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Chakra Petch', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.4rem;
+}
+
+a, p, ul, li{
+  font-family: 'PT Sans Caption', sans-serif !important;
+  font-size: calc(0.8rem + 0.2vw) !important;
+}
+
+h1{
+  font-size: calc(2.0rem + 0.5vw) !important;
+}
+
+h2{
+  font-size: calc(1.6rem + 0.5vw) !important;
+}
+
+h3{
+  font-size: calc(1.2rem + 0.5vw) !important;
+}
+
+.gutter-sm{
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
+li{
+  margin-top: 20px;
+}
+
+html{
+
+  scroll-behavior: smooth !important;
+
+}
+
+ul {
+  list-style-type: none;
+}
+

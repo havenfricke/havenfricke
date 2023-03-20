@@ -1,0 +1,47 @@
+section{
+    min-height: 200vh;
+}
+.top-element{
+    margin-top: 52px !important;
+    max-width: 100vw;
+    min-height: 66vh;
+    background-image: url('../../assets/img/void1.jpg');
+    // background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+.cta-button:hover, .cta-button:focus{
+   background-color: #6a5699 !important;
+   transition: all 0.5s ease;
+
+}
+
+.cta-text{
+    filter: drop-shadow(5px 5px 5px #000000)
+}
+
+.info-bottom{
+    min-height: 100%;
+}
+
+.info-card{
+    max-height: 25vh;
+}
+
+.tools a{
+    background-color: var(--bs-light);
+    padding: 2rem;
+    border-radius: 2rem;
+}
+
+.tools a:hover, .tools a:focus{
+    opacity: 0.5;
+    transition: all 0.5s ease;
+}
+
+.child-page{
+    min-height: 20vh !important;
+}
