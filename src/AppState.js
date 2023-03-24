@@ -8,6 +8,11 @@ class ObservableAppState {
   /** @type {import('./models/Account.js').Account | null} */
   account = null
 
+  posts = []
+  post = {}
+
+
+
   //if single object use null if multiple use [] (Array).
 
   constructor() {

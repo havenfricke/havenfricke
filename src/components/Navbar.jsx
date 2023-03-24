@@ -18,15 +18,18 @@ export function Navbar() {
   
   
         
-          <div className="col-9">
-          <Link to={''} className="btn text-light lighten-40 px-2 selectable text-uppercase">
+          <div className="col-12">
+          <Link to={''} className="btn text-light lighten-40 px-2 selectable text-uppercase navRedux">
               Home
           </Link>
-          <Link to={'portfolio'} className="btn text-light lighten-40 px-2 selectable text-uppercase">
+          <Link to={'portfolio'} className="btn text-light lighten-80 px-2 selectable text-uppercase navRedux">
               Portfolio
           </Link>
-          <Link to={'contact'} className="btn text-light lighten-40 px-2 selectable text-uppercase">
+          <Link to={'contact'} className="btn text-light lighten-80 px-2 selectable text-uppercase navRedux">
               Contact
+          </Link>
+          <Link to={'demo'} className="btn text-light lighten-80 px-2 selectable text-uppercase navRedux">
+              Demo
           </Link>
           </div>
           

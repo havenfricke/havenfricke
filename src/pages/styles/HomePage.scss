@@ -32,16 +32,39 @@ section{
 }
 
 .tools a{
-    background-color: var(--bs-light);
+    background-color: var(--bs-secondary);
     padding: 2rem;
-    border-radius: 2rem;
+    max-height: 20vh;
+    min-height: 20vh;
+    filter: drop-shadow(1px 1px 1px #000000)
 }
 
 .tools a:hover, .tools a:focus{
     opacity: 0.5;
-    transition: all 0.5s ease;
+    background-color: var(--bs-light);
+    transition: all 0.2s ease;
 }
 
 .child-page{
     min-height: 20vh !important;
+}
+
+.top-left-tool{
+    border-radius: 0 0 0 1rem;
+}
+
+.top-right-tool{
+    border-radius: 1rem 0 0 0;
+}
+
+.bottom-left-tool{
+    border-radius: 0 0 10px 10px;
+}
+
+.bottom-right-tool{
+    border-radius: 0 0 10px 10px;
+}
+
+.tool-img{
+    filter: drop-shadow(-3px 4px 2px #2e2e2e)
 }

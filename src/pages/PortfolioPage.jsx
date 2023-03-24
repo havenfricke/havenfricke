@@ -1,5 +1,6 @@
 import { observer } from "mobx-react-lite";
 import React from "react";
+import { Link } from "react-router-dom";
 import Login from "../components/Login";
 
 function PortfolioPage() {
@@ -132,6 +133,16 @@ function PortfolioPage() {
                 </li>
               </ul>
             </div>
+          </div>
+        </div>
+        <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
+          <div className="row d-flex align-items-center justify-content-center parallax">
+
+            <h1 className="text-center text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow text-light cta-text"> 
+              Curious about more?
+            </h1> 
+
+          <Link to={'/demo'} className="btn bg-primary col-xxl-4 col-6 my-5 py-3 text-light cta-button cta-text">View Demonstrations</Link>
           </div>
         </div>
     </section>

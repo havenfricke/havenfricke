@@ -101,3 +101,25 @@ ul {
   list-style-type: none;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+  
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #070707;
+  border-radius: 1rem;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 1rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #575757;
+}

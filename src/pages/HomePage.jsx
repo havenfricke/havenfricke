@@ -11,7 +11,7 @@ function HomePage() {
         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
           <div className="row d-flex align-items-center justify-content-center">
 
-            <h1 className="text-center text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-shadow cta-text"> 
+            <h1 className="text-center text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-shadow text-light cta-text"> 
               Mastering the art of presentable information with front-end engineering and development.
             </h1> 
 
@@ -20,12 +20,12 @@ function HomePage() {
         </div>
         <div className="container-fluid gutter-sm">
           <div className="row d-flex justify-content-center mt-5">
-            <h2 className="text-center mt-5 col-12 d-block">
+            <h2 className="text-center text-light mt-5 col-12 d-block">
               Core Practices
             </h2>
           </div>
           <div className="row d-flex justify-content-around mt-5">
-            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-5 col-9 my-5 d-block shadow-lg">
+            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5 d-block shadow-lg">
                   <h3 className="p-3 mb-0 bg-secondary rounded-top">
                     Design & Accessibility <br/>Driven Products
                   </h3>
@@ -43,7 +43,7 @@ function HomePage() {
                       </ul>
                   </div>
             </div>
-            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-5 col-9 my-5 shadow-lg">
+            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5 shadow-lg">
                   <h3 className="p-3 mb-0 card-top bg-secondary rounded-top">
                   Architecture & Data <br />Organization 
                   </h3>
@@ -66,184 +66,210 @@ function HomePage() {
       
       
           <div className="container-fluid gutter-sm">
-            <div className="row d-flex justify-content-around mt-5 tools">
-              <h2 className="text-center my-5 col-12 d-block pt-5">
+            <div className="row d-flex justify-content-around mt-5 tools shdaow-lg">
+              <h2 className="text-center my-5 col-12 d-block bg-body-bg pt-5">
                 Tools currently in use or previously used
               </h2>
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1 mt-xxl-5 mt-xl-5 mt-3" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="80" width="80" alt="bootstrap"/>
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="80" width="80" alt="bootstrap"/>
                     </center>
                     </a> 
                     
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1 mt-xxl-5 mt-xl-5 mt-3" href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4 " href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="80" width="80" alt="csharp"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="80" width="80" alt="csharp"/> 
                     </center>
                     </a> 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="80" width="80" alt="css3"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="80" width="80" alt="css3"/> 
                     </center>
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://cdn.worldvectorlogo.com/logos/django.svg" height="80" width="80" alt="django"/> 
+                    <img className="img-fluid tool-img" src="https://cdn.worldvectorlogo.com/logos/django.svg" height="80" width="80" alt="django"/> 
                     </center>
                    
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="80" width="80" alt="docker"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="80" width="80" alt="docker"/> 
                     </center>
                   
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="80" width="80" alt="dotnet"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="80" width="80" alt="dotnet"/> 
                     </center>
                    
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://expressjs.com" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="80" width="80" alt="express"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="80" width="80" alt="express"/> 
                     </center>
                    
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" width="80" alt="figma"/> 
+                    <img className="img-fluid tool-img" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="80" width="80" alt="figma"/> 
                     </center>
                    
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" width="80" alt="git"/> 
+                    <img className="img-fluid tool-img" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="80" width="80" alt="git"/> 
                     </center>
                  
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://graphql.org" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://graphql.org" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="80" width="80" alt="graphql"/> 
+                    <img className="img-fluid tool-img" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" height="80" width="80" alt="graphql"/> 
                     </center>
                  
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://heroku.com" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://heroku.com" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="80" width="80" alt="heroku"/> 
+                    <img className="img-fluid tool-img" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="80" width="80" alt="heroku"/> 
                     </center>
                 
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" width="80" alt="html5"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="80" width="80" alt="html5"/> 
                     </center>
                  
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" width="80" alt="javascript"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="80" width="80" alt="javascript"/> 
                     </center>
                
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="80" width="80" alt="mongodb"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="80" width="80" alt="mongodb"/> 
                     </center>
              
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="80" width="80" alt="mysql"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="80" width="80" alt="mysql"/> 
                     </center>
               
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="80" width="80" alt="nextjs"/> 
+                    <img className="img-fluid tool-img" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="80" width="80" alt="nextjs"/> 
                     </center>
                
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://nodejs.org" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="80" width="80" alt="nodejs"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="80" width="80" alt="nodejs"/> 
                     </center>
               
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.php.net" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.php.net" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="80" width="80" alt="php"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="80" width="80" alt="php"/> 
                     </center>
              
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="80" width="80" alt="postgresql"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="80" width="80" alt="postgresql"/> 
                     </center>
                 
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.python.org" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.python.org" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" width="80" alt="python"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" width="80" alt="python"/> 
                     </center>
                   
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" width="80" alt="react"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="80" width="80" alt="react"/> 
                     </center>
                 
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="80" width="80" alt="sass"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="80" width="80" alt="sass"/> 
                     </center>
                   
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://svelte.dev" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://svelte.dev" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="80" width="80" alt="svelte"/> 
+                    <img className="img-fluid tool-img" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="80" width="80" alt="svelte"/> 
                     </center>
                    
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" width="80" alt="tailwind"/> 
+                    <img className="img-fluid tool-img" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="80" width="80" alt="tailwind"/> 
                     </center>
                 
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="80" width="80" alt="vuejs"/> 
+                    <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="80" width="80" alt="vuejs"/> 
                     </center>
    
                     </a> 
 
-                    <a class="col-xxl-4 col-xl-4 col-md-4 col-12 my-3 mx-1" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
                     <center>
-                    <img class="img-fluid" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="80" width="80" alt="xd"/> 
+                    <img className="img-fluid tool-img" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" height="80" width="80" alt="xd"/> 
+                    </center>
+
+                    </a>
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="" target="_blank" rel="noreferrer"> 
+                    <center>
+                    {/* <img className="img-fluid tool-img" src="" height="80" width="80" alt="blank"/>  */}
+                    </center>
+   
+                    </a> 
+
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="" target="_blank" rel="noreferrer"> 
+                    <center>
+                    {/* <img className="img-fluid tool-img" src="" height="80" width="80" alt="blank"/>  */}
+                    </center>
+
+                    </a>
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="" target="_blank" rel="noreferrer"> 
+                    <center>
+                    {/* <img className="img-fluid tool-img" src="" height="80" width="80" alt="blank"/>  */}
+                    </center>
+   
+                    </a> 
+
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="" target="_blank" rel="noreferrer"> 
+                    <center>
+                    {/* <img className="img-fluid tool-img" src="" height="80" width="80" alt="blank"/>  */}
                     </center>
 
                     </a>

@@ -1,0 +1,9 @@
+.post-card{
+    min-height: 12rem;
+    max-height: 12rem;
+}
+
+.selectable-add:active, .selectable-add:focus{
+    transform: scale(0.98);
+    transition: all 0.1s ease;
+}
