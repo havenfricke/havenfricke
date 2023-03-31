@@ -247,9 +247,9 @@ function HomePage() {
                     </center>
 
                     </a>
-                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="" target="_blank" rel="noreferrer"> 
+                    <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
                     <center>
-                    {/* <img className="img-fluid tool-img" src="" height="80" width="80" alt="blank"/>  */}
+                    <img className="img-fluid tool-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" height="80" width="80" alt="blank"/> 
                     </center>
    
                     </a> 

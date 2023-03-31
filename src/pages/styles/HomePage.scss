@@ -32,7 +32,7 @@ section{
 }
 
 .tools a{
-    background-color: var(--bs-secondary);
+    background-color: var(--bs-light);
     padding: 2rem;
     max-height: 20vh;
     min-height: 20vh;
@@ -66,5 +66,5 @@ section{
 }
 
 .tool-img{
-    filter: drop-shadow(-3px 4px 2px #2e2e2e)
+    filter: drop-shadow(-3px 4px 3px #494949)
 }
