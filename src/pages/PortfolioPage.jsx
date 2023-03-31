@@ -7,20 +7,20 @@ function PortfolioPage() {
 
   return (
     <section className="portfolio-page">
-         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element child-page">
-          <div className="row d-flex align-items-center justify-content-center parallax">
-            <h1 className="text-center text-light text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
+         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element child-page shadow mx-0 px-0">
+          <div className="row bg-white shadow-lg border w-100 mx-0 px-0 d-flex align-items-center justify-content-center">
+            <h1 className="text-center p-2 text-dark text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
              Portfolio
             </h1> 
           </div>
         </div>
         <div className="container-fluid gutter-sm">
-          <div className="row d-flex justify-content-center">
+          <div className="row d-flex justify-content-center mt-5">
             <span></span>
-            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-secondary mt-5 rounded-top">
-              <h2 className="my-4 text-center">Tools in Practice: Projects past and present</h2>
+            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-secondary mt-5 rounded-top shadow">
+              <h2 className="my-4 text-center text-dark shadow-text">Tools in Practice: Projects past and present</h2>
             </div>
-            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-light rounded-bottom px-3">
+            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-light rounded-bottom px-3 shadow-lg">
               <ul>
                 <li>
                   This Wesbite - Site is built on React.js.
@@ -109,10 +109,10 @@ function PortfolioPage() {
         <div className="container-fluid gutter-sm">
           <div className="row d-flex justify-content-center">
             <span></span>
-            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-secondary mt-5 rounded-top">
-              <h2 className="my-4 text-center">Other Projects</h2>
+            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-secondary mt-5 rounded-top shadow">
+              <h2 className="my-4 text-center text-dark shadow-text">Other Projects</h2>
             </div>
-            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-light rounded-bottom px-3 mb-5">
+            <div className="col-xxl-8 col-xl-8 col-lg-8 col-11 bg-light rounded-bottom px-3 mb-5 shadow-lg">
               <ul>
                 <li>
                   <a className="text-primary" referrer="noreferrer" target="_blank" href="https://github.com/havenfricke/imageScraper">ImageScraper</a> - A tool built with puppeteer.js that takes in a url, ensures the viewport is at maximum width, and scrapes the page for all of it's images with respective filenames. 
@@ -136,13 +136,14 @@ function PortfolioPage() {
           </div>
         </div>
         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
-          <div className="row d-flex align-items-center justify-content-center parallax">
+          <div className="row d-flex align-items-center justify-content-center parallax p-3 bg-white shadow rounded">
 
-            <h1 className="text-center text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow text-light cta-text"> 
+            <h1 className="text-center text-break col-12 mx-2 my-4 px-xxl-5 px-xl-5 px-2 shadow-text cta-text text-dark pt-3"> 
               Curious about more?
+              <Link to={'/demo'} className="btn bg-primary col-xxl-4 col-5 my-4 py-3 text-light cta-button cta-text">View Demonstrations</Link>
             </h1> 
 
-          <Link to={'/demo'} className="btn bg-primary col-xxl-4 col-6 my-5 py-3 text-light cta-button cta-text">View Demonstrations</Link>
+         
           </div>
         </div>
     </section>

@@ -20,16 +20,16 @@ export function Navbar() {
         
           <div className="col-12">
           <Link to={''} className="btn text-light lighten-40 px-2 selectable text-uppercase navRedux">
-              Home
+              <strong className="shadow-text">Home</strong>
           </Link>
           <Link to={'portfolio'} className="btn text-light lighten-80 px-2 selectable text-uppercase navRedux">
-              Portfolio
+              <strong className="shadow-text">Portfolio</strong>
           </Link>
           <Link to={'contact'} className="btn text-light lighten-80 px-2 selectable text-uppercase navRedux">
-              Contact
+              <strong className="shadow-text">Contact</strong>
           </Link>
           <Link to={'demo'} className="btn text-light lighten-80 px-2 selectable text-uppercase navRedux">
-              Demo
+              <strong className="shadow-text" >Demo</strong>
           </Link>
           </div>
           

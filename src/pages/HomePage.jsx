@@ -8,34 +8,39 @@ function HomePage() {
 
   return (
     <section className="home-page text-light">
-        <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
-          <div className="row d-flex align-items-center justify-content-center">
+        <div className="container-fluid d-flex align-items-center justify-content-between mt-5 top-element shadow-lg">
+          <div className="row d-flex align-items-center justify-content-center bg-white shadow">
 
-            <h1 className="text-center text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-shadow text-light cta-text"> 
-              Mastering the art of presentable information with front-end engineering and development.
+            <div className="col-12 col-lg-3 col-xl-3 col-xxl-3">
+              <img className="img-fluid" src="src\assets\img\dribbbbble.gif"/>
+            </div>
+
+            <h1 className="text-start text-break col-12 col-lg-6 col-xl-6 col-xxl-6 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-dark cta-text rounded p-3"> 
+              Mastering the art of presentable information with front-end development.<br/>
+              <Link to={'portfolio'} className="btn bg-primary col-xxl-5 col-12 my-3 py-3 text-light cta-button cta-text">Learn More</Link>
             </h1> 
 
-          <Link to={'portfolio'} className="btn bg-primary col-xxl-2 col-5 my-3 py-3 text-light cta-button cta-text">Learn More</Link>
+         
           </div>
         </div>
         <div className="container-fluid gutter-sm">
           <div className="row d-flex justify-content-center mt-5">
-            <h2 className="text-center text-light mt-5 col-12 d-block">
+            <h2 className="text-center text-dark shadow-text mt-5 col-12 d-block">
               Core Practices
             </h2>
           </div>
           <div className="row d-flex justify-content-around mt-5">
-            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5 d-block shadow-lg">
-                  <h3 className="p-3 mb-0 bg-secondary rounded-top">
-                    Design & Accessibility <br/>Driven Products
+            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5 d-block">
+                  <h3 className="p-3 mb-0 bg-light rounded-top">
+                    <span className="shadow-text text-dark">Design & Accessibility <br/>Driven Products</span>
                   </h3>
-                  <div className="bg-light px-0 mx-0 rounded-bottom p-2 text-dark">
+                  <div className="bg-white px-0 mx-0 rounded-bottom p-2 text-dark shadow-lg">
                       <ul className="mt-2 p-2 ms-3">
                         <li>
                           Accessibility standards driven by <a rel="noreferrer" className="text-primary" target="_blank" href="https://www.a11yproject.com/">A11y</a>.
                         </li>
                         <li>
-                         Proven capability in translating design with history of using <a rel="noreferrer" className="text-primary" target="_blank" href="https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html">Adobe XD</a><br/> and <a rel="noreferrer" className="text-primary" target="_blank" href="https://www.figma.com/">Figma</a>.
+                         Proven capability in translating design with history of using <a rel="noreferrer" className="text-primary" target="_blank" href="https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html">Adobe XD</a> and <a rel="noreferrer" className="text-primary" target="_blank" href="https://www.figma.com/">Figma</a>.
                         </li>
                         <li>
                           Educated and practiced in SEO with tools including <a rel="noreferrer" className="text-primary" target="_blank" href="https://developer.chrome.com/docs/lighthouse/overview/">Google Lighthouse</a> and <a rel="noreferrer" className="text-primary" target="_blank" href="https://www.browserstack.com/">BrowserStack</a>. 
@@ -43,11 +48,11 @@ function HomePage() {
                       </ul>
                   </div>
             </div>
-            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5 shadow-lg">
-                  <h3 className="p-3 mb-0 card-top bg-secondary rounded-top">
-                  Architecture & Data <br />Organization 
+            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5">
+                  <h3 className="p-3 mb-0 card-top bg-light rounded-top">
+                  <span className="shadow-text text-dark">Architecture & Data <br />Organization</span> 
                   </h3>
-                  <div className="bg-light px-0 mx-0 rounded-bottom p-2 text-dark">
+                  <div className="bg-white px-0 mx-0 rounded-bottom p-2 text-dark shadow-lg">
                       <ul className="mt-2 p-2 ms-3">
                        <li>
                           <a rel="noreferrer" className="text-primary" target="_blank" href="https://pvha.hashnode.dev/mvcs-architecture">MVC+S Software Model</a> for both front-end and back-end.
@@ -65,11 +70,14 @@ function HomePage() {
           </div>
       
       
-          <div className="container-fluid gutter-sm">
-            <div className="row d-flex justify-content-around mt-5 tools shdaow-lg">
-              <h2 className="text-center my-5 col-12 d-block bg-body-bg pt-5">
+          <div className="container-fluid gutter-sm mt-5 pt-5">
+            <div className="row d-flex justify-content-around mt-5 tools shadow-lg rounded bg-dark text-light">
+              <div className="text-center my-5 col-12 d-block py-3">
+              <h2 className="shadow-text">
                 Tools currently in use or previously used
               </h2>
+              </div>
+             
                     <a className="col-xxl-2 col-xl-2 col-md-2 col-4" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
                     <center>
                     <img className="img-fluid tool-img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="80" width="80" alt="bootstrap"/>
@@ -277,13 +285,14 @@ function HomePage() {
           </div>
         
         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
-          <div className="row d-flex align-items-center justify-content-center parallax">
+          <div className="row d-flex align-items-center justify-content-center parallax p-3 bg-white shadow rounded">
 
-            <h1 className="text-center text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
+            <h1 className="text-center text-break col-12 mx-2 my-4 px-xxl-5 px-xl-5 px-2 shadow-text cta-text text-dark pt-3"> 
               Interested in connecting?
+              <Link to={'contact'} className="btn bg-primary col-xxl-4 col-5 my-4 py-3 text-light cta-button cta-text">Get in contact</Link>
             </h1> 
 
-          <Link to={'contact'} className="btn bg-primary col-xxl-2 col-5 my-5 py-3 text-light cta-button cta-text">Get in contact</Link>
+         
           </div>
         </div>
     </section>

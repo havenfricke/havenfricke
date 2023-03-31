@@ -47,7 +47,7 @@ function DemoPage(){
     //APPSTATE LOGIC
     const posts = AppState.posts.map(p => {
         return (
-        <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-6 selectable" key={p.id}>
+        <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-6 col-6" key={p.id}>
             <PostCard post={p} />
         </div>
         )
@@ -62,20 +62,20 @@ function DemoPage(){
 
     return (
     <div className="container-fluid mx-0 px-0">
-        <div className="row d-flex align-items-center justify-content-center mt-5 mx-0 px-0 top-element child-page parallax mb-5">
-          <h1 className="text-center text-light text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
-           Demonstrations of Practice
+        <div className="row d-flex align-items-center justify-content-center mt-5 mx-0 px-0 top-element child-page parallax">
+          <h1 className="text-center bg-white border py-2 text-dark text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
+           <span className="shadow-text">Demonstrations of Practice</span>
           </h1>
         </div>
         <div className="row mx-0 px-0">
-            <h2 className="text-light p-2 bg-primary">
+            <h3 className="text-light p-2 bg-primary shadow-text">
                 API Interfacing
-            </h2>
+            </h3>
         </div>
         <div className="row mx-0 px-0 justify-content-start">
-            <div className="col-12 p-4 text-light">
-                <div className="row d-flex ">
-                    <p className="col-12 border-bottom p-3">
+            <div className="col-12 p-4 text-dark">
+                <div className="row d-flex justify-content-center">
+                    <p className="col-12 col-lg-8 border shadow rounded p-3 my-5">
                     Below are posts from https://dummyjson.com's open source API. 
                     I am able to complete this demonstration on Vue.js, Sveltekit, and React.js. 
                     This demonstrates the ability to communicate to an api with front-end technologies. 
@@ -90,6 +90,7 @@ function DemoPage(){
             </div>
           
             {posts}
+
         </div>
         <div className="text-light justify-content-center row mx-0 px-0 mb-5">
             <div className="col-xxl-2 col-xl-2 col-lg-2 col-md-12 col-12 text-center mt-5">
@@ -97,9 +98,9 @@ function DemoPage(){
             </div>
         </div>
         <div className="row mx-0 px-0">
-            <h2 className="text-light p-2 bg-primary">
+            <h3 className="text-light p-2 bg-primary">
                 More coming soon...
-            </h2>
+            </h3>
         </div>
     </div>
     );

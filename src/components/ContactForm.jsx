@@ -16,8 +16,8 @@ const ContactForm = () => {
   if (submitted) {
     return (
       <div className="mt-5 pt-5 text-center">
-        <div className="fs-1 text-light">Thank you!</div>
-        <div className="fs-4 text-light">We'll be in touch soon.</div>
+        <div className="fs-1 text-light"><p>Thank you!</p></div>
+        <div className="fs-4 text-light"><p>We'll be in touch soon.</p></div>
         <Link className="text-light bg-primary btn mt-3" to={'/'}>Go back to homepage</Link>
       </div>
     );
@@ -63,7 +63,7 @@ const ContactForm = () => {
           className="btn bg-primary"
           type="submit"
         >
-          Send a message
+          Send Message
         </button>
       </div>
     </form>
