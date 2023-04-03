@@ -140,7 +140,7 @@ function PortfolioPage() {
 
             <h1 className="text-center text-break col-12 mx-2 my-4 px-xxl-5 px-xl-5 px-2 shadow-text cta-text text-dark pt-3"> 
               Curious about more? <br/>
-              <Link to={'/demo'} className="btn bg-primary col-xxl-4 col-7 my-4 py-3 text-light cta-button cta-text">View Demonstrations</Link>
+              <Link to={'/demo'} className="btn bg-primary col-xxl-6 col-7 my-4 py-3 text-light cta-button cta-text">View Demonstrations</Link>
             </h1> 
 
          
