@@ -7,13 +7,13 @@ function PortfolioPage() {
 
   return (
     <section className="portfolio-page">
-         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element child-page shadow mx-0 px-0">
-          <div className="row bg-white shadow-lg border w-100 mx-0 px-0 d-flex align-items-center justify-content-center">
-            <h1 className="text-center p-2 text-dark text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
-             Portfolio
-            </h1> 
+    
+         <div className="row w-100 d-flex bg-white rounded shadow-lg p-4 align-items-center justify-content-center mt-5 mx-0 px-0 top-element child-page">
+            <h2 className="text-center bg-white p-2 text-dark text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
+            <span className="shadow-text">Portfolio</span> 
+            </h2> 
           </div>
-        </div>
+     
         <div className="container-fluid gutter-sm">
           <div className="row d-flex justify-content-center mt-5">
             <span></span>

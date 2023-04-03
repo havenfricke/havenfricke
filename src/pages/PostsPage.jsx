@@ -32,7 +32,7 @@ function PostsPage(){
         <div className="row mx-0 px-0 d-flex justify-content-center mx-0 px-0 mt-5">
             <div className="col-10 text-dark mt-5 pt-5 border shadow rounded mx-0 px-0">
                 <h1 className="text-center mx-0 mb-3 bg-light px-0 text-dark"><span className="shadow-text">{post.title}</span></h1>
-                <p className="mx-xxl-5 mx-xl-5 mx-lg-5 mx-0 px-xxl-5 px-xl-5 px-lg-5 px-0">{post.body}</p>
+                <p className="mx-xxl-5 mx-xl-5 mx-lg-5 mx-0 px-xxl-5 px-xl-5 px-lg-5 px-3">{post.body}</p>
             </div>
             <div className="col-10">
                 <h3 className="text-dark shadow-text mt-5">How the data got here:</h3>

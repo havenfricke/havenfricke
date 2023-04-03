@@ -10,12 +10,12 @@ export function Navbar() {
 
   return (
     <nav id="navbar" className="container-fluid bg-dark px-3 shadow-lg">
-
+      <h1 aria-hidden="true" className="d-none">Haven Fricke</h1>
       <div className="row d-flex justify-content-between align-items-center">
         {/* <div className="col-0"> */}
           {/* <img src="src\assets\img\void.gif" height="100"/> */}
         {/* </div> */}
-  
+
   
         
           <div className="col-12">

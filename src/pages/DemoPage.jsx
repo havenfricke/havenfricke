@@ -63,9 +63,9 @@ function DemoPage(){
     return (
     <div className="container-fluid mx-0 px-0">
         <div className="row d-flex align-items-center justify-content-center mt-5 mx-0 px-0 top-element child-page parallax">
-          <h1 className="text-center bg-white border py-2 text-dark text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
+          <h2 className="text-center bg-white border py-2 text-dark text-break col-12 mx-2 px-xxl-5 px-xl-5 px-2 text-shadow cta-text"> 
            <span className="shadow-text">Demonstrations of Practice</span>
-          </h1>
+          </h2>
         </div>
         <div className="row mx-0 px-0">
             <h3 className="text-light p-2 bg-primary shadow-text">
