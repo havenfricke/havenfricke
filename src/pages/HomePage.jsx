@@ -18,10 +18,10 @@ function HomePage() {
 
             </div>
 
-            <h1 className="text-start text-break col-12 col-lg-6 col-xl-6 col-xxl-6 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-dark cta-text rounded p-3"> 
+            <h2 className="text-start text-break col-12 col-lg-6 col-xl-6 col-xxl-6 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-dark cta-text rounded p-3"> 
               Mastering the art of presentable information with front-end development.<br/>
               <Link to={'portfolio'} className="btn bg-primary col-xxl-5 col-12 my-3 py-3 text-light cta-button cta-text">Learn More</Link>
-            </h1> 
+            </h2> 
 
          
           </div>
