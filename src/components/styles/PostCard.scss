@@ -1,9 +1,14 @@
 .post-card{
-    min-height: 17rem;
-    max-height: 17rem;
+    min-height: 18rem;
+    max-height: 18rem;
 }
 
 .selectable-add:active, .selectable-add:focus{
     transform: scale(0.98);
     transition: all 0.1s ease;
+}
+
+.post-text{
+    text-overflow: ellipsis;
+    max-height: 10px;
 }
