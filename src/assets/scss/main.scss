@@ -133,3 +133,8 @@ ul {
 ::-webkit-scrollbar-thumb:hover {
   background: #575757;
 }
+
+body, div, span, img, h1, h2, h3, h4, h5, h6, section{
+  transition: all 0.2s;
+}
+

@@ -72,3 +72,11 @@ section{
 .tool-img{
     filter: drop-shadow(-3px 4px 3px #49494980)
 }
+
+.home-image{
+    background-image: url('../../assets/img/dribbbbble.gif');
+    background-size: contain;
+    padding: 150px 150px 150px 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+}

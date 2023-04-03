@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import './styles/HomePage.scss'
 
 
+
 function HomePage() {
 
   return (
@@ -12,7 +13,9 @@ function HomePage() {
           <div className="row d-flex align-items-center justify-content-center bg-white shadow">
 
             <div className="col-12 col-lg-3 col-xl-3 col-xxl-3">
-              <img className="img-fluid" src="src\assets\img\dribbbbble.gif"/>
+
+              <div className="home-image img-fluid"></div>
+
             </div>
 
             <h1 className="text-start text-break col-12 col-lg-6 col-xl-6 col-xxl-6 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-dark cta-text rounded p-3"> 
@@ -289,7 +292,7 @@ function HomePage() {
 
             <h1 className="text-center text-break col-12 mx-2 my-4 px-xxl-5 px-xl-5 px-2 shadow-text cta-text text-dark pt-3"> 
               Interested in connecting?
-              <Link to={'contact'} className="btn bg-primary col-xxl-4 col-5 my-4 py-3 text-light cta-button cta-text">Get in contact</Link>
+              <Link to={'contact'} className="btn bg-primary col-xxl-4 col-6 my-4 py-3 text-light cta-button cta-text">Get in contact</Link>
             </h1> 
 
          
