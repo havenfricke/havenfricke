@@ -3,6 +3,8 @@ import { useEffect } from "react";
 import { AppState } from "../AppState";
 import { PostCard } from "../components/PostCard";
 import './styles/DemoPage.scss'
+import { Link } from "react-router-dom";
+
 
 
 import { postService } from "../services/PostService";
@@ -101,6 +103,17 @@ function DemoPage(){
             <h3 className="text-light p-2 bg-primary">
                 More coming soon...
             </h3>
+        </div>
+        <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
+          <div className="row d-flex align-items-center justify-content-center parallax p-3 bg-white shadow rounded">
+
+            <h1 className="text-center text-break col-12 mx-2 my-4 px-xxl-5 px-xl-5 px-2 shadow-text cta-text text-dark pt-3"> 
+              Interested in connecting?
+              <Link to={'/contact'} className="btn bg-primary col-xxl-4 col-6 my-4 py-3 text-light cta-button cta-text">Get in contact</Link>
+            </h1> 
+
+         
+          </div>
         </div>
     </div>
     );

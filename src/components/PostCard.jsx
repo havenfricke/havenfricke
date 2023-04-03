@@ -12,7 +12,7 @@ export function PostCard( { post } ) {
         <Link onClick={cleanState} to={`posts/${post.id}`}>
             <div tabIndex={0} className="bg-light p-3 my-3 rounded shadow-text post-card selectable rounded selectable-add"> 
                 <span className='border-bottom row bg-secondary rounded p-1 text-shadow text-center'>Post #{post.id}</span>
-                <span className='row mx-1 post-text'><br/> {post.title}<br /></span>
+                <span className='row mx-1 post-text pb-2'><br/> {post.title}<br /></span>
             </div>
         </Link>
     )

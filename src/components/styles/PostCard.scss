@@ -1,6 +1,6 @@
 .post-card{
-    min-height: 18rem;
-    max-height: 18rem;
+    min-height: 15rem;
+    max-height: 15rem;
     overflow: hidden;
 }
 
@@ -11,5 +11,6 @@
 
 .post-text{
     text-overflow: ellipsis;
-    max-height: 10px;
+    max-height: 12rem;
+    overflow: hidden;
 }
