@@ -18,12 +18,11 @@ function HomePage() {
 
             </div>
 
-            <h2 className="text-start text-break col-12 col-lg-6 col-xl-6 col-xxl-6 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-dark cta-text rounded p-3"> 
-              Mastering the art of presentable information with front-end development.<br/>
-              <Link to={'portfolio'} className="btn bg-primary col-xxl-5 col-12 my-3 py-3 text-light cta-button cta-text">Learn More</Link>
-            </h2> 
+            <h1 className="fs-2 text-start text-break col-12 col-lg-6 col-xl-6 col-xxl-6 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-dark cta-text rounded p-3"> 
+              Mastering the art of presentable information and intuitively engineered data with full-stack software development.<br/>
+              <Link to={'portfolio'} className="btn bg-primary col-xxl-4 col-12 my-3 py-3 text-light cta-button cta-text">Learn More</Link>
+            </h1> 
 
-         
           </div>
         </div>
         <div className="container-fluid gutter-sm">
@@ -31,6 +30,39 @@ function HomePage() {
             <h2 className="text-center text-dark shadow-text mt-5 col-12 d-block">
               Core Practices
             </h2>
+            <p className="text-start text-dark px-5 my-5">
+              <b>Full Stack Software Developer | Front-End Centric</b>
+              <br />
+              <br />
+              <br />
+            Hello my name is Haven. 
+
+            I am a full stack software developer. I have found over the years through my own studies, experiences, projects, and conversations that what I enjoy most in my work is creative engineering. Whether it be engineering through problems during operations in the military, solving an algorithm to create new features in development, or engineering sound in the studio for fun - I’m here for the inspiration needed to find the solution and produce the best product. 
+            <br />
+            <br />
+            My approach to software development is in the making but my working guidelines in creative engineering include:
+            <br />
+            <br />
+            - An Occam’s razor approach to tackling problems.
+            <br />
+            <br />
+            - A calm center allows for inspiration and clarity to be had. 
+            <br />
+            <br />
+            - No solution to a problem is inherently the wrong one until tested. 
+            <br />
+            <br />
+            - Good things take time, great things take more. 
+            <br />
+            <br />
+            And last but certainly not least,
+            <br />
+            <br />
+            - Keep track of cognitive bias by referencing the <a className="text-primary" href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" target="_blank">Dunning-Kruger effect</a>. (This one is crucial to me in software development).
+            <br />
+            <br />
+            Continued education is a privilege and greatly aids in cognitive bias that we all run into from time to time in our careers. We have so much information at our fingertips because of our technology. I feel obliged to learn as much as I can while working in the industry that creates means in the delivery and upkeep of this information. Continued education is required to adapt to real world problems, and I am certainly here for it.
+            </p>
           </div>
           <div className="row d-flex justify-content-around mt-5">
             <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5 d-block">

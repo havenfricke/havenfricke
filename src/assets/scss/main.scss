@@ -119,13 +119,12 @@ ul {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #070707;
-  border-radius: 1rem;
+  background: var(--bs-secondary);
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background: var(--bs-primary);
   border-radius: 1rem;
 }
 

@@ -101,7 +101,7 @@ function DemoPage(){
         </div>
         <div className="row mx-0 px-0">
             <h3 className="text-light p-2 bg-primary">
-                More coming soon...
+                More coming soon... (API currently in development)
             </h3>
         </div>
         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
