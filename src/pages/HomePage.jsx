@@ -7,6 +7,7 @@ import './styles/HomePage.scss'
 
 function HomePage() {
 
+
   return (
     <section className="home-page text-light">
         <div className="container-fluid d-flex align-items-center justify-content-between mt-5 top-element shadow-lg">
@@ -19,57 +20,43 @@ function HomePage() {
             </div>
 
             <h1 className="fs-2 text-start text-break col-12 col-lg-6 col-xl-6 col-xxl-6 mx-2 px-xxl-5 px-xl-5 px-2 mt-3 text-dark cta-text rounded p-3"> 
-              Mastering the art of presentable information and intuitively engineered data with full-stack software development.<br/>
-              <Link to={'portfolio'} className="btn bg-primary col-xxl-4 col-12 my-3 py-3 text-light cta-button cta-text">Learn More</Link>
+              The art of presentable information and intuitively engineered data with full-stack software development.<br/>
+              <Link to={'portfolio'} className="btn bg-primary col-xxl-3 col-12 my-3 py-3 text-light cta-button cta-text">Learn More</Link>
             </h1> 
 
           </div>
         </div>
         <div className="container-fluid gutter-sm">
-          <div className="row d-flex justify-content-center mt-5">
+          <div className="row d-flex justify-content-center mt-5 px-xl-5 px-lg-5 px-0">
+            <p className="text-start text-dark px-5 my-5">
+              <b className="border-bottom border-dark pb-1">Full Stack Software Developer | Front-End Centric</b>
+              <br />
+              <br />
+              <br />
+            Hello, my name is <a class="text-primary" href="https://www.linkedin.com/in/haven-fricke/">Haven</a>. 
+            <br />
+            <br />
+            I am a full stack software developer. I have found over the years through my own studies, experiences, projects, and conversations that what I enjoy most in my work is creative engineering. 
+            <br />
+            <br />
+            Whether it be engineering through problems during operations in the military, solving an algorithm to create new features in development, or engineering sound in the studio for fun - I’m here for the inspiration needed to find the solution and produce the best product. 
+            <br />
+            <br />
+            The tech industry is constantly changing. Simultaneously, continued education is a privilege to me. There is always something new to learn or keep up on. We have so much information at our fingertips because of our technology. It is possible in today's age to teach yourself something new every day. 
+            <br />
+            <br />
+            I feel obligated to learn as much as I can this being the case. Continued education is required to adapt to real world problems, and I am certainly here for it.
+            </p>
             <h2 className="text-center text-dark shadow-text mt-5 col-12 d-block">
               Core Practices
             </h2>
-            <p className="text-start text-dark px-5 my-5">
-              <b>Full Stack Software Developer | Front-End Centric</b>
-              <br />
-              <br />
-              <br />
-            Hello my name is Haven. 
-
-            I am a full stack software developer. I have found over the years through my own studies, experiences, projects, and conversations that what I enjoy most in my work is creative engineering. Whether it be engineering through problems during operations in the military, solving an algorithm to create new features in development, or engineering sound in the studio for fun - I’m here for the inspiration needed to find the solution and produce the best product. 
-            <br />
-            <br />
-            My approach to software development is in the making but my working guidelines in creative engineering include:
-            <br />
-            <br />
-            - An Occam’s razor approach to tackling problems.
-            <br />
-            <br />
-            - A calm center allows for inspiration and clarity to be had. 
-            <br />
-            <br />
-            - No solution to a problem is inherently the wrong one until tested. 
-            <br />
-            <br />
-            - Good things take time, great things take more. 
-            <br />
-            <br />
-            And last but certainly not least,
-            <br />
-            <br />
-            - Keep track of cognitive bias by referencing the <a className="text-primary" href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" target="_blank">Dunning-Kruger effect</a>. (This one is crucial to me in software development).
-            <br />
-            <br />
-            Continued education is a privilege and greatly aids in cognitive bias that we all run into from time to time in our careers. We have so much information at our fingertips because of our technology. I feel obliged to learn as much as I can while working in the industry that creates means in the delivery and upkeep of this information. Continued education is required to adapt to real world problems, and I am certainly here for it.
-            </p>
           </div>
           <div className="row d-flex justify-content-around mt-5">
-            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5 d-block">
+            <div className="px-0 mx-2 col-xxl-7 col-xl-7 col-md-10 col-10 my-5 mx-5 px-0">
                   <h3 className="p-3 mb-0 bg-light rounded-top">
-                    <span className="shadow-text text-dark">Design & Accessibility <br/>Driven Products</span>
+                    <span className="shadow-text text-dark">Design & Accessibility Driven Products</span>
                   </h3>
-                  <div className="bg-white px-0 mx-0 rounded-bottom p-2 text-dark shadow-lg">
+                  <div className="bg-white px-0 mx-0 rounded-bottom p-2 text-dark shadow-lg bg-body-bg">
                       <ul className="mt-2 p-2 ms-3">
                         <li>
                           Accessibility standards driven by <a rel="noreferrer" className="text-primary" target="_blank" href="https://www.a11yproject.com/">A11y</a>.
@@ -83,11 +70,11 @@ function HomePage() {
                       </ul>
                   </div>
             </div>
-            <div className="px-0 mx-2 col-xxl-5 col-xl-5 col-md-10 col-10 my-5">
+            <div className="px-0 mx-2 col-xxl-7 col-xl-7 col-md-10 col-10 my-5 mx-5 px-0">
                   <h3 className="p-3 mb-0 card-top bg-light rounded-top">
-                  <span className="shadow-text text-dark">Architecture & Data <br />Organization</span> 
+                  <span className="shadow-text text-dark">Architecture & Data Organization</span> 
                   </h3>
-                  <div className="bg-white px-0 mx-0 rounded-bottom p-2 text-dark shadow-lg">
+                  <div className="bg-white px-0 mx-0 rounded-bottom p-2 text-dark shadow-lg bg-body-bg">
                       <ul className="mt-2 p-2 ms-3">
                        <li>
                           <a rel="noreferrer" className="text-primary" target="_blank" href="https://pvha.hashnode.dev/mvcs-architecture">MVC+S Software Model</a> for both front-end and back-end.
@@ -105,9 +92,9 @@ function HomePage() {
           </div>
       
       
-          <div className="container-fluid gutter-sm mt-5 pt-5">
-            <div className="row d-flex justify-content-around mt-5 tools shadow-lg rounded bg-dark text-light">
-              <div className="text-center my-5 col-12 d-block py-3">
+          <div className="container-fluid gutter-sm mt-5 pt-5 px-5">
+            <div className="row d-flex justify-content-around mt-5 tools shadow-lg rounded bg-dark text-light px-lg-5 px-xl-5 px-xxl-5 px-0 pb-xl-5 pb-xxl-5 pb-lg-5 px-0 skill-blocks">
+              <div className="text-center my-5 col-12 d-block py-3 px-5">
               <h2 className="shadow-text">
                 Tools currently in use or previously used
               </h2>
@@ -320,7 +307,7 @@ function HomePage() {
           </div>
         
         <div className="container-fluid d-flex align-items-center justify-content-center mt-5 top-element">
-          <div className="row d-flex align-items-center justify-content-center parallax p-3 bg-white shadow rounded">
+          <div className="row d-flex align-items-center justify-content-center p-0 bg-white shadow rounded">
 
             <h1 className="text-center text-break col-12 mx-2 my-4 px-xxl-5 px-xl-5 px-2 shadow-text cta-text text-dark pt-3"> 
               Interested in connecting?

@@ -4,7 +4,7 @@ section{
 .top-element{
     margin-top: 52px !important;
     max-width: 100vw;
-    min-height: 66vh;
+    min-height: 57vh;
     background-image: url('https://wallpaperaccess.com/full/296966.jpg');
     // background-attachment: fixed;
     background-position: center;
@@ -16,7 +16,7 @@ section{
 .cta-button:hover, .cta-button:focus{
    background-color: var(--bs-secondary) !important;
    transition: all 0.5s ease;
-
+   color: var(--bs-primary) !important;
 }
 
 .cta-text{
@@ -79,4 +79,8 @@ section{
     padding: 150px 150px 150px 150px;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+.skill-blocks{
+    transform: scale(0.85);
 }

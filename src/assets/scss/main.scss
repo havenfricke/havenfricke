@@ -8,6 +8,10 @@ body {
   overscroll-behavior: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 #app {
   display: flex;
   flex-direction: column;
@@ -19,8 +23,13 @@ main {
   flex-grow: 1;
 }
 
-a {
-  text-decoration: none;
+// a {
+
+// }
+
+a:hover, a:focus, Link:hover, Link:focus{
+  text-decoration: underline !important;
+  transition: all 0.5s ease;
 }
 
 input,
@@ -96,6 +105,10 @@ h3{
   padding-left: 6%;
   padding-right: 6%;
 }
+.gutter-lg{
+  padding-left: 18%;
+  padding-right: 18%;
+}
 
 li{
   margin-top: 20px;
@@ -119,12 +132,12 @@ ul {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: var(--bs-secondary);
+  background: var(--bs-dark);
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: var(--bs-primary);
+  background: var(--bs-light);
   border-radius: 1rem;
 }
 
