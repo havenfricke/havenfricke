@@ -36,16 +36,16 @@ function HomePage() {
             Hello, my name is <a class="text-primary" href="https://www.linkedin.com/in/haven-fricke/">Haven</a>. 
             <br />
             <br />
-            I am a full stack software developer. I have found over the years through my own studies, experiences, projects, and conversations that what I enjoy most in my work is creative engineering. 
+            I have found over the years through my own studies, experiences, projects, and conversations that what I enjoy most in my work is creative engineering. 
             <br />
             <br />
-            Whether it be engineering through problems during operations in the military, solving an algorithm to create new features in development, or engineering sound in the studio for fun - I’m here for the inspiration needed to find the solution and produce the best product. 
+            Whether it be engineering through problems during operations in the military, solving an algorithm to create new features in development, general research and development, or engineering sound in the studio for fun - I’m here for the inspiration needed to find the solution and produce the best outcome. 
             <br />
             <br />
             The tech industry is constantly changing. Simultaneously, continued education is a privilege to me. There is always something new to learn or keep up on. We have so much information at our fingertips because of our technology. It is possible in today's age to teach yourself something new every day. 
             <br />
             <br />
-            I feel obligated to learn as much as I can this being the case. Continued education is required to adapt to real world problems, and I am certainly here for it.
+            I feel obligated to learn as much as I can this being the case. Continued education is required to adapt to real world problems, and I am here for it.
             </p>
             <h2 className="text-center text-dark shadow-text mt-5 col-12 d-block">
               Core Practices

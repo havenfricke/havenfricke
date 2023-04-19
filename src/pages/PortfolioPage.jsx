@@ -34,7 +34,7 @@ function PortfolioPage() {
                   <a className="text-primary" referrer="noreferrer" target="_blank" href="https://github.com/havenfricke/keepr">Keepr</a> - A full stack web application closely resembling the functionality of Pinterest with authorization capabilities, public and private content capabilties in the api logic, and profile editing.
                   <br/> 
            
-                  <code>Stack: Vite, Eslint, Node.js, Sweetalerts2, Axios, ASP.NET, Dapper, Vue.js, Vue Router, SCSS, MDI Icons, and Bootstrap 5.</code>
+                  <code>Stack: Vite, Eslint, Node.js, bcw-auth0-provider, Auth0, C#, Sweetalerts2, Axios, ASP.NET, Dapper, Vue.js, Vue Router, SCSS, MDI Icons, and Bootstrap 5.</code>
                   <br/> 
                   <br/> 
                 </li>
@@ -42,7 +42,7 @@ function PortfolioPage() {
                   <a className="text-primary" referrer="noreferrer" target="_blank" href="https://github.com/havenfricke/PlanIt">PlanIt</a> - A full stack web application built for project management with Scrum. Authorization capabilities. Functionality includes the creation of new projects and within those projects users can be added or removed. New sprints, tasks, and notes can be added to each project.
                   <br/> 
              
-                  <code>Stack: Vite, Eslint, Node.js, Sweetalerts2, Axios, Express.js, Dapper, Vue.js, Vue Router, SCSS, MDI Icons, and Bootstrap 5.</code>
+                  <code>Stack: Vite, Eslint, Node.js, bcw-auth0-provider, Auth0, JavaScript, Sweetalerts2, Axios, Express.js, Dapper, Vue.js, Vue Router, SCSS, MDI Icons, and Bootstrap 5.</code>
                   <br/> 
                   <br/> 
                 </li>
@@ -50,7 +50,7 @@ function PortfolioPage() {
                   <a className="text-primary" referrer="noreferrer" target="_blank" href="https://github.com/havenfricke/Tower">Tower</a> - A full stack web application that allows users to sign up, post an event, rsvp to other users events, and cancel events. Authorization capabilities. The app includes the functionality of no longer allowing users to rsvp and event if it is sold out and the ability to view all events that you have rsvp'd to.
                   <br/> 
             
-                  <code>Stack: Vite, Eslint, Node.js, Sweetalerts2, Axios, Express.js, Dapper, Vue.js, Vue Router, SCSS, MDI Icons, and Bootstrap 5.</code>
+                  <code>Stack: Vite, Eslint, Node.js, bcw-auth0-provider, Auth0, JavaScript Sweetalerts2, Axios, Express.js, Dapper, Vue.js, Vue Router, SCSS, MDI Icons, and Bootstrap 5.</code>
                   <br/> 
                   <br/> 
                 </li>
