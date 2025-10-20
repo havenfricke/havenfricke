@@ -1,4 +1,4 @@
-<h1 align="center">My Profile Statistics</h1>
+<h1 align="center">My Stats</h1>
 
 <p align="center">
   <a href="https://github.com/havenfricke"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=havenfricke&color=2984CC&style=flat" alt="Haven's GitHub Profile Guests"/></a>
