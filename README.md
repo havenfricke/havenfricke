@@ -10,6 +10,8 @@
   <a href="https://github.com/havenfricke?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=tokyonight&langs_count=8" alt="Haven's GitHub Top Langs"/></a>
 </p>
 
+<h2>Trophies</h2>
+
 <p align="center">
   <a href="https://github.com/havenfricke"><img src="https://github-profile-trophy.vercel.app/?username=havenfricke&theme=onedark&no-bg=true" alt="Haven's profile"/></a>
 </p>
