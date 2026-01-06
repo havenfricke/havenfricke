@@ -11,53 +11,26 @@ Full-stack developer specializing in interactive systems, game backend services,
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=havenfricke&theme=radical&hide_border=true)
 
-**Backup Stats (if API fails):**
-
-| **Metric** | **Value** |
-|------------|-----------|
-| 📊 **Total Repositories** | 1+ Public |
-| ⭐ **Total Stars** | Growing |
-| 🍴 **Total Forks** | Active Development |
-| 💻 **Primary Language** | JavaScript |
-| 🎯 **Focus** | Full-Stack Development |
-| 🎮 **Specialization** | Game/IoT Backend Systems |
-
 ## 💻 Technical Stack for Interactive Systems
 
 ### Game Development & Interactive Media
-- **Languages**: JavaScript, C#, C++, Python, Lua
+- **Languages**: JavaScript, C#, C++
 - **Engines**: Unity, Unreal Engine (Blueprint + C++)
 - **Systems**: Real-time multiplayer, AI state machines, Physics simulation
-- **Graphics**: WebGL, Shader programming, Performance optimization
+- **Graphics**: Shader programming, Performance optimization
 - **Networking**: WebSocket, TCP/UDP, Authoritative server architecture
 
 ### IoT & Connected Devices
-- **Protocols**: MQTT, WebSocket, HTTP/HTTPS, TCP/UDP
-- **Platforms**: Node.js, Johnny-Five, Zetta.js, Cylon.js
+- **Protocols**: WebSocket, HTTP/HTTPS, TCP/UDP
+- **Platforms**: Node.js
 - **Cloud**: AWS IoT, Real-time data processing, Edge computing
-- **Security**: Device authentication, Encrypted communication
-- **Hardware**: Raspberry Pi, Arduino, Sensor integration
+- **Hardware**: Arduino, Sensor integration
 
 ### Full-Stack Web Architecture
-- **Backend**: Node.js, Express.js, MySQL/PostgreSQL, Redis
-- **Frontend**: React, Vue.js, Real-time dashboards, WebGL
-- **DevOps**: Docker, CI/CD, Cloud deployment, Auto-scaling
+- **Backend**: Node.js, Express.js, MySQL/PostgreSQL
+- **Frontend**: React, Vue.js, Real-time dashboards
+- **DevOps**: CI/CD, Cloud deployment
 - **Security**: Parameterized queries, JWT, OAuth, Rate limiting
-
-## 🛠️ Featured Projects
-
-### Vanilla Express Server - Game Backend Infrastructure
-**Game-ready CRUD architecture with IoT integration capabilities**
-
-![Vanilla Express Server](https://github-readme-stats.vercel.app/api/pin/?username=havenfricke&repo=Vanilla-Express-Server&theme=radical&show_owner=true)
-
-**Technical Highlights:**
-- ⚡ **Response Time**: Sub-200ms average API response
-- 🔒 **Security Score**: 9.5/10 (parameterized queries, input validation)
-- 📊 **Database**: Optimized for 1M+ records with indexing
-- 🌐 **CORS**: Configured for cross-origin game client integration
-- 🚀 **Architecture**: MVCS+R pattern for modular game systems
-- 💾 **Storage**: File upload system for game assets/user content
 
 **Project Technical Details:**
 ## 🎯 Industry-Focused Skills
@@ -65,8 +38,9 @@ Full-stack developer specializing in interactive systems, game backend services,
 ### For Game Studios
 - **Multiplayer Systems**: Client-server architecture, State synchronization
 - **Live Services**: Matchmaking, Leaderboards, Analytics integration
+- **Full Pipeline"": Sculpting, Meshing, UV mapping, Rigging, Animation, Game Controls, and Root Motion in relation to game controls.
 - **Performance**: Memory optimization, GPU instancing, LOD systems
-- **Cross-Platform**: PC, Mobile, Web deployment strategies
+- **Cross-Platform**: PC, Mobile, Console.
 - **Tooling**: Asset pipelines, Build automation, Version control
 
 ### For IoT Companies
@@ -76,19 +50,13 @@ Full-stack developer specializing in interactive systems, game backend services,
 - **Integration**: Third-party APIs, Weather services, Cloud platforms
 - **Edge Computing**: Local processing, Offline capabilities
 
-## 📈 Reliable Development Metrics
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
-
-### 🏆 Achievements & Milestones
 
 | **Category** | **Details** |
 |--------------|-------------|
-| 🎓 **Education** | BASc Games, Interactive Media & Mobile Technology (3.6 GPA) |
-| 🚀 **Backend Focus** | 80%+ Backend/API development time |
+| 🎓 **Education** | BASc Games, Interactive Media & Mobile Technology |
 | 🔧 **Architecture** | MVCS+R pattern implementation specialist |
 | 🛡️ **Security First** | JWT, parameterized queries, input validation |
-| ⚡ **Performance** | Sub-200ms API response optimization |
 | 📱 **Cross-Platform** | Web, Mobile, IoT device integration |
 
 ## 🌟 What I Bring to Your Team
@@ -104,15 +72,13 @@ Full-stack developer specializing in interactive systems, game backend services,
 - IoT device lifecycle and connectivity challenges
 - Real-time data processing and visualization needs
 - Cross-functional collaboration with designers and hardware teams
+- Gamer since 2004
 
 ## 📫 Let's Build Together
 - 💼 [LinkedIn](https://www.linkedin.com/in/haven-fricke)
-- 🐙 [GitHub](https://github.com/havenfricke)
-- 🎮 Open to: Game Backend Developer, IoT Full-Stack Engineer, Interactive Systems Developer
+- 🎮 Open to: Game Developer / Engineer, IoT / Full-Stack Engineer, Interactive Systems Developer / Engineer
 
 ---
-
-**"Building bridges between pixels, protocols, and people"** 🚀
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=havenfricke&theme=radical&no-frame=true&column=7)
 
