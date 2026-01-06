@@ -38,7 +38,7 @@ Full-stack developer specializing in interactive systems, game mechanics + servi
 ### For Game Studios
 - **Multiplayer Systems**: Client-server architecture, State synchronization
 - **Live Services**: Matchmaking, Leaderboards, Analytics integration
-- **Full Pipeline"": Sculpting, Meshing, UV mapping, Rigging, Animation, Game Controls, and Root Motion in relation to game controls.
+- **Full Pipeline**: Sculpting, Meshing, UV mapping, Rigging, Animation, Game Controls, and Root Motion in relation to game controls.
 - **Performance**: Memory optimization, GPU instancing, LOD systems
 - **Cross-Platform**: PC, Mobile, Console.
 - **Tooling**: Asset pipelines, Build automation, Version control
