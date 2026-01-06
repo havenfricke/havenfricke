@@ -53,9 +53,9 @@ Full-stack developer specializing in interactive systems, game backend services,
 ### Vanilla Express Server - Game Backend Infrastructure
 **Game-ready CRUD architecture with IoT integration capabilities**
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=havenfricke&repo=Vanilla-Express-Server&theme=radical&show_owner=true" alt="Vanilla Express Server" /&gt;
-&lt;/p&gt;
+<p align="center">;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=havenfricke&repo=Vanilla-Express-Server&theme=radical&show_owner=true" alt="Vanilla Express Server" >;
+</p>
 
 **Technical Highlights:**
 - ⚡ **Response Time**: &lt;200ms average API response
@@ -65,75 +65,5 @@ Full-stack developer specializing in interactive systems, game backend services,
 - 🚀 **Architecture**: MVCS+R pattern for modular game systems
 - 💾 **Storage**: File upload system for game assets/user content
 
-
-</details>
-
-## 🎯 Industry-Focused Skills
-
-### For Game Studios
-- **Multiplayer Systems**: Client-server architecture, State synchronization
-- **Live Services**: Matchmaking, Leaderboards, Analytics integration
-- **Performance**: Memory optimization, GPU instancing, LOD systems
-- **Cross-Platform**: PC, Mobile, Web deployment strategies
-- **Tooling**: Asset pipelines, Build automation, Version control
-
-### For IoT Companies
-- **Device Management**: OTA updates, Remote monitoring, Fleet management
-- **Data Processing**: Real-time analytics, Time-series databases
-- **Visualization**: Interactive dashboards, Sensor data charts
-- **Integration**: Third-party APIs, Weather services, Cloud platforms
-- **Edge Computing**: Local processing, Offline capabilities
-
-## 📈 Reliable Development Metrics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27" alt="GitHub Activity Graph" />
-</p>
-
-### 🏆 Achievements & Milestones
-
-| **Category** | **Details** |
-|--------------|-------------|
-| 🎓 **Education** | BASc Games, Interactive Media & Mobile Technology (3.6 GPA) |
-| 🚀 **Backend Focus** | 80%+ Backend/API development time |
-| 🔧 **Architecture** | MVCS+R pattern implementation specialist |
-| 🛡️ **Security First** | JWT, parameterized queries, input validation |
-| ⚡ **Performance** | Sub-200ms API response optimization |
-| 📱 **Cross-Platform** | Web, Mobile, IoT device integration |
-
-## 🌟 What I Bring to Your Team
-
-### Technical Excellence
-- End-to-end development from hardware to cloud
-- Performance optimization for resource-constrained environments
-- Security-first approach for connected systems
-- Scalable architecture for growing user bases
-
-### Industry Understanding
-- Game development pipeline and live service requirements
-- IoT device lifecycle and connectivity challenges
-- Real-time data processing and visualization needs
-- Cross-functional collaboration with designers and hardware teams
-
-## 📫 Let's Build Together
-- 💼 [LinkedIn](https://www.linkedin.com/in/haven-fricke)
-- 🐙 [GitHub](https://github.com/havenfricke)
-- 🎮 Open to: Game Backend Developer, IoT Full-Stack Engineer, Interactive Systems Developer
-
----
-
-**"Building bridges between pixels, protocols, and people"** 🚀
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=havenfricke&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-**🔧 Technical Notes:**
-- Stats refresh every 4 hours via CDN caching
-- Private repository stats available with self-hosted deployment
-- All APIs use GitHub's public API with rate limiting protection
-- Fallback static stats provided for reliability
-
-
+<details/>
+<summary>🔍 Project Technical Details </summary>;
