@@ -1,7 +1,7 @@
 # 🎮 IoT & Game-Focused Full Stack Developer | Haven Fricke
 
 ## 🚀 About Me
-Full-stack developer specializing in interactive systems, game backend services, and IoT web applications. Bridging the gap between immersive experiences and robust server infrastructure with modern web technologies.
+Full-stack developer specializing in interactive systems, game mechanics + services, and IoT web applications. Bridging the gap between immersive experiences and robust infrastructure with modern technologies.
 
 ## 📊 GitHub Stats & Activity
 
@@ -15,7 +15,7 @@ Full-stack developer specializing in interactive systems, game backend services,
 
 ### Game Development & Interactive Media
 - **Languages**: C#, C++, HLSL, DirectX
-- **Engines**: Unity, Unreal Engine (Blueprint + C++)
+- **Engines**: Unity, Unreal Engine (Blueprint + C++), DirectX / C++ / HLSL (Custom)
 - **Systems**: Real-time multiplayer, AI state machines, Physics simulation
 - **Graphics**: Shader programming, Performance optimization
 - **Networking**: WebSocket, TCP/UDP, Authoritative server architecture, Remote Procedure Calls.
@@ -76,9 +76,3 @@ Full-stack developer specializing in interactive systems, game backend services,
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=havenfricke&theme=radical&no-frame=true&column=7)
 
 ---
-
-**🔧 Technical Notes:**
-- Stats refresh every 4 hours via CDN caching
-- Private repository stats available with self-hosted deployment
-- All APIs use GitHub's public API with rate limiting protection
-- Fallback static stats provided for reliability
