@@ -14,11 +14,11 @@ Full-stack developer specializing in interactive systems, game backend services,
 ## 💻 Technical Stack for Interactive Systems
 
 ### Game Development & Interactive Media
-- **Languages**: JavaScript, C#, C++
+- **Languages**: C#, C++, HLSL, DirectX
 - **Engines**: Unity, Unreal Engine (Blueprint + C++)
 - **Systems**: Real-time multiplayer, AI state machines, Physics simulation
 - **Graphics**: Shader programming, Performance optimization
-- **Networking**: WebSocket, TCP/UDP, Authoritative server architecture
+- **Networking**: WebSocket, TCP/UDP, Authoritative server architecture, Remote Procedure Calls.
 
 ### IoT & Connected Devices
 - **Protocols**: WebSocket, HTTP/HTTPS, TCP/UDP
@@ -51,13 +51,6 @@ Full-stack developer specializing in interactive systems, game backend services,
 - **Edge Computing**: Local processing, Offline capabilities
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
-
-| **Category** | **Details** |
-|--------------|-------------|
-| 🎓 **Education** | BASc Games, Interactive Media & Mobile Technology |
-| 🔧 **Architecture** | MVCS+R pattern implementation specialist |
-| 🛡️ **Security First** | JWT, parameterized queries, input validation |
-| 📱 **Cross-Platform** | Web, Mobile, IoT device integration |
 
 ## 🌟 What I Bring to Your Team
 
