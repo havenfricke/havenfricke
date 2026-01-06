@@ -14,7 +14,7 @@ Full-stack developer specializing in interactive systems, game mechanics + servi
 ## 💻 Technical Stack for Interactive Systems
 
 ### Game Development & Interactive Media
-- **Languages**: C#, C++, HLSL, DirectX
+- **Tools**: C#, C++, HLSL, DirectX
 - **Engines**: Unity, Unreal Engine (Blueprint + C++), DirectX / C++ / HLSL (Custom)
 - **Systems**: Real-time multiplayer, AI state machines, Physics simulation
 - **Graphics**: Shader programming, Performance optimization
