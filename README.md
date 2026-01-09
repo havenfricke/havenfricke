@@ -1,8 +1,3 @@
-# 🎮 IoT & Game-Focused Full Stack Developer | Haven Fricke
-
-## 🚀 About Me
-Full-stack developer specializing in interactive systems, game mechanics + services, and IoT web applications. Bridging the gap between immersive experiences and robust infrastructure with modern technologies.
-
 ## 📊 GitHub Stats & Activity
 
 ![Haven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=havenfricke&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
