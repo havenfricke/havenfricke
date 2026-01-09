@@ -39,10 +39,10 @@
 - **Tooling**: Asset pipelines, Build automation, Version control
 
 ### For IoT Companies
-- **Device Management**: OTA updates, Remote monitoring, Fleet management
+- **Device Management**: Remote monitoring
 - **Data Processing**: Real-time analytics, Time-series databases
 - **Visualization**: Interactive dashboards, Sensor data charts
-- **Integration**: Third-party APIs, Weather services, Cloud platforms
+- **Integration**: Third-party APIs, Cloud platforms
 - **Edge Computing**: Local processing, Offline capabilities
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
