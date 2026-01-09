@@ -64,7 +64,7 @@
 
 ## 📫 Let's Build Together
 - [LinkedIn](https://www.linkedin.com/in/haven-fricke)
-- [Twitter](https://x.com/havenf_gg)
+- [X / Twitter](https://x.com/havenf_gg)
 - Open to: Game Developer / Engineer, IoT / Full-Stack Engineer, Interactive Systems Developer / Engineer
 
 ---
