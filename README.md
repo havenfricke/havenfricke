@@ -63,8 +63,9 @@
 - Gamer since 2004
 
 ## 📫 Let's Build Together
-- 💼 [LinkedIn](https://www.linkedin.com/in/haven-fricke)
-- 🎮 Open to: Game Developer / Engineer, IoT / Full-Stack Engineer, Interactive Systems Developer / Engineer
+- [LinkedIn](https://www.linkedin.com/in/haven-fricke)
+- [Twitter](https://x.com/havenf_gg)
+- Open to: Game Developer / Engineer, IoT / Full-Stack Engineer, Interactive Systems Developer / Engineer
 
 ---
 
