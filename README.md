@@ -13,7 +13,7 @@
 - **Engines**: Unity, Unreal Engine (Blueprint + C++), DirectX / C++ / HLSL (Custom), (New!) Touchdesigner
 - **Systems**: Real-time multiplayer, AI state machines, Physics simulation
 - **Graphics**: Shader programming, Performance optimization
-- **Networking**: WebSocket, TCP/UDP, Authoritative server architecture, Remote Procedure Calls
+- **Networking**: Server/Client Model, TCP/UDP, Authoritative server architecture, Remote Procedure Calls
 
 ### IoT & Connected Devices
 - **Protocols**: WebSocket, HTTP/HTTPS, TCP/UDP
