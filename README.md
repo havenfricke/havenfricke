@@ -1,7 +1,5 @@
 ## 📊 GitHub Stats & Activity
 
-![Haven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=havenfricke&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=havenfricke&theme=radical&hide_border=true)
