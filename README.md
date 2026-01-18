@@ -1,8 +1,8 @@
 ## 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<center>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=radical&hide_border=true&langs_count=8)</center>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=havenfricke&theme=radical&hide_border=true)
+<center>![GitHub Streak](https://streak-stats.demolab.com/?user=havenfricke&theme=radical&hide_border=true)</center>
 
 ## 💻 Technical Stack for Interactive Systems
 
