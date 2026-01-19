@@ -25,7 +25,6 @@
 - **DevOps**: CI/CD, Cloud deployment
 - **Security**: Parameterized queries, JWT, OAuth, Rate limiting
 
-**Project Technical Details:**
 ## Industry Skills
 
 ### For Game Studios
