@@ -1,10 +1,10 @@
-## 📊 GitHub Stats & Activity
+## Activity
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=havenfricke&theme=radical&hide_border=true)
 
-## 💻 Technical Stack for Interactive Systems
+## Tech Stacks
 
 ### Game Development & Interactive Media
 - **Tools**: C#, C++, Angelscript, HLSL, DirectX
@@ -26,10 +26,10 @@
 - **Security**: Parameterized queries, JWT, OAuth, Rate limiting
 
 **Project Technical Details:**
-## 🎯 Industry-Focused Skills
+## Industry Skills
 
 ### For Game Studios
-- **Multiplayer Systems**: Client-server architecture, State synchronization
+- **Multiplayer Systems**: Client-server architecture, State synchronization, RPCs
 - **Live Services**: Matchmaking, Leaderboards, Analytics integration
 - **Full Pipeline**: Sculpting, Meshing, UV mapping, Rigging, Animation, Game Controls, and Root Motion in relation to game controls
 - **Performance**: Memory optimization, GPU instancing, LOD systems
