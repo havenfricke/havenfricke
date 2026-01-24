@@ -1,4 +1,4 @@
-## Quality over quantity. No exceptions.
+### Quality over quantity. No exceptions.
 
 ## Activity
 
