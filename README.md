@@ -1,4 +1,4 @@
-### Quality over quantity. No exceptions.
+### Quality over quantity. No exceptions. If you came to my GitHub looking for eenvironment variables, you won't find anything.
 
 ## Activity
 
