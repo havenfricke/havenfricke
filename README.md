@@ -1,3 +1,5 @@
+## Quality over quantity. No exceptions.
+
 ## Activity
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=radical&hide_border=true&langs_count=8)
