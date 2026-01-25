@@ -1,12 +1,12 @@
-### Quality over quantity. No exceptions.
+## Quality over quantity. No exceptions.
 
-## Activity
+### Activity
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=havenfricke&theme=radical&hide_border=true)
 
-## Tech Stacks
+### Tech Stacks
 
 ### Game Development & Interactive Media
 - **Tools**: C#, C++, Angelscript, HLSL, DirectX
@@ -59,7 +59,7 @@
 - Cross-functional collaboration with designers and hardware teams
 - Gamer since 2004
 
-## Socials
+### Socials
 - [LinkedIn](https://www.linkedin.com/in/haven-fricke)
 - [X / Twitter](https://x.com/havenf_gg)
 - Open to: Game Developer / Engineer, IoT / Full-Stack Engineer, Interactive Systems Developer / Engineer
