@@ -11,7 +11,7 @@
 ### Game Development & Interactive Media
 - **Tools**: C#, C++, Angelscript, HLSL, DirectX
 - **Engines**: Unity, Unreal Engine (Blueprint, C++, Angelscript), DirectX / C++ / HLSL (Custom)
-- **Systems**: Real-time multiplayer, AI state machines, Physics simulation
+- **Systems**: Real-time multiplayer, AI state machines, Physics simulation, Player Locomotion, Algorithms
 - **Graphics**: Shader programming, Performance optimization
 - **Networking**: Server/Client Model, TCP/UDP, Authoritative server architecture, Remote Procedure Calls
 
