@@ -9,7 +9,7 @@
 ### Tech Stacks
 
 ### Game Development & Interactive Media
-- **Tools**: C#, C++, Angelscript, HLSL, DirectX
+- **Tools**: C#, C++, HLSL, DirectX
 - **Engines**: Unity, Unreal Engine (Blueprint, Angelscript), DirectX / C++ / HLSL (Custom)
 - **Systems**: Real-time multiplayer, AI state machines, Physics simulation, Player Locomotion, Algorithms
 - **Graphics**: Shader programming, Performance optimization
@@ -17,7 +17,7 @@
 
 ### IoT & Connected Devices
 - **Protocols**: WebSocket, HTTP/HTTPS, TCP/UDP
-- **Platforms**: Node.js
+- **Platforms**: Node.js, Arduino IDE (C++)
 - **Cloud**: AWS IoT, Real-time data processing, Edge computing
 - **Hardware**: Arduino, Sensor integration
 
