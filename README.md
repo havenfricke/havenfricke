@@ -22,8 +22,8 @@
 - **Hardware**: Arduino, Sensor integration
 
 ### Full-Stack Web Architecture
-- **Backend**: Node.js, Express.js, MySQL/PostgreSQL
-- **Frontend**: React, Vue.js, Real-time dashboards
+- **Backend**: TypeScript, JavaScript, Node.js, Express.js, MySQL/PostgreSQL
+- **Frontend**: TypeScript, JavaScript, React, Vue.js, Real-time dashboards
 - **DevOps**: CI/CD, Cloud deployment
 - **Security**: Parameterized queries, JWT, OAuth, Rate limiting
 
