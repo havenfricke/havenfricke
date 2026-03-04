@@ -25,7 +25,7 @@
 - **Backend**: TypeScript, JavaScript, Node.js, Express.js, MySQL/PostgreSQL
 - **Frontend**: TypeScript, JavaScript, React, Vue.js, Real-time dashboards
 - **DevOps**: CI/CD, Cloud deployment
-- **Security**: Parameterized queries, JWT, OAuth, Rate limiting
+- **Security**: Parameterized queries, JWT, OAuth
 
 ## Industry Skills
 
@@ -34,8 +34,8 @@
 - **Live Services**: Matchmaking, Leaderboards, Analytics integration
 - **Full Pipeline**: Sculpting, Meshing, UV mapping, Rigging, Animation, Game Controls, and Root Motion in relation to game controls
 - **Performance**: Memory optimization, GPU instancing, LOD systems
-- **Cross-Platform**: PC, Mobile, Console
-- **Tooling**: Asset pipelines, Build automation, Version control
+- **Cross-Platform**: PC, Android, Console
+- **Tooling**: Asset pipelines, Version control
 
 ### For IoT Companies
 - **Device Management**: Remote monitoring
