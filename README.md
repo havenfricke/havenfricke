@@ -2,8 +2,6 @@
 
 ### Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havenfricke&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=havenfricke&theme=radical&hide_border=true)
 
 ### Tech Stacks
