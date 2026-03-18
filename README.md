@@ -7,40 +7,40 @@
 ### Tech Stacks
 
 ### Game Dev and Graphics
-Engines & Frameworks: Unity (C#), Unreal Engine (Blueprint), Custom Engines (DirectX/C++/HLSL).
-Languages: C#, C++, HLSL.
-Graphics & Rendering: Shader programming, GPU instancing, LOD systems, Performance optimization.
-Full Pipeline: Sculpting, Meshing, UV mapping, Rigging, Animation, Root Motion.
-Gameplay Systems: AI state machines, Physics simulation, Player Locomotion, Game Controls.
-Platforms: PC, Android, Console.
+- Engines & Frameworks: Unity (C#), Unreal Engine (Blueprint), Custom Engines (DirectX/C++/HLSL).
+- Languages: C#, C++, HLSL.
+- Graphics & Rendering: Shader programming, GPU instancing, LOD systems, Performance optimization.
+- Full Pipeline: Sculpting, Meshing, UV mapping, Rigging, Animation, Root Motion.
+- Gameplay Systems: AI state machines, Physics simulation, Player Locomotion, Game Controls.
+- Platforms: PC, Android, Console.
 
 ### Networking and Multiplayer
-Architecture: Server/Client Model, Authoritative server architecture, State synchronization.
-Communication: Remote Procedure Calls (RPCs), TCP/UDP, WebSockets.
-Live Services: Matchmaking, Leaderboards, Analytics integration.
-Multiplayer Logic: Real-time multiplayer systems, Client-side prediction/reconciliation.
+- Architecture: Server/Client Model, Authoritative server architecture, State synchronization.
+- Communication: Remote Procedure Calls (RPCs), TCP/UDP, WebSockets.
+- Live Services: Matchmaking, Leaderboards, Analytics integration.
+- Multiplayer Logic: Real-time multiplayer systems, Client-side prediction/reconciliation.
 
 ### Full-stack and Cloud Infrastructure
-Backend: Node.js, Express.js, TypeScript, JavaScript.
-Frontend: React, Vue.js, Interactive/Real-time dashboards, Sensor data charts.
-Databases & Data: MySQL, PostgreSQL, Time-series databases, Real-time analytics.
-Cloud & DevOps: AWS IoT, CI/CD, Cloud deployment, Third-party API integration.
-Security: JWT, OAuth, Parameterized queries.
+- Backend: Node.js, Express.js, TypeScript, JavaScript.
+- Frontend: React, Vue.js, Interactive/Real-time dashboards, Sensor data charts.
+- Databases & Data: MySQL, PostgreSQL, Time-series databases, Real-time analytics.
+- Cloud & DevOps: AWS IoT, CI/CD, Cloud deployment, Third-party API integration.
+- Security: JWT, OAuth, Parameterized queries.
 
 ### Backend and Data Services
-Runtime & Framework: Node.js, Express.ts (TypeScript/JavaScript).
-Databases: MySQL or SQL Server, Time-series databases.
-Data Processing: Real-time analytics, Python-based data tooling, Edge computing.
-API Architecture: REST (Express), WebSocket, HTTP/HTTPS.
+- Runtime & Framework: Node.js, Express.ts (TypeScript/JavaScript).
+- Databases: MySQL or SQL Server, Time-series databases.
+- Data Processing: Real-time analytics, Python-based data tooling, Edge computing.
+- API Architecture: REST (Express), WebSocket, HTTP/HTTPS.
 
 ### Infrastructure and Environment
-Operating System: RHEL (Red Hat Enterprise Linux)
-DevOps & Automation: Python (Tooling/Scripting), CI/CD, Cloud deployment.
+- Operating System: RHEL (Red Hat Enterprise Linux)
+- DevOps & Automation: Python (Tooling/Scripting), CI/CD, Cloud deployment.
 
-###Hardware and Edge Systems
-Embedded Systems: Arduino, Arduino IDE (C++), Sensor integration.
-Edge Computing: Local processing, Edge computing, Offline capabilities.
-IoT Infrastructure: AWS IoT, Real-time data processing from hardware.
+### Hardware and Edge Systems
+- Embedded Systems: Arduino, Arduino IDE (C++), Sensor integration.
+- Edge Computing: Local processing, Edge computing, Offline capabilities.
+- IoT Infrastructure: AWS IoT, Real-time data processing from hardware.
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
