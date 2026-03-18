@@ -48,6 +48,7 @@
 ### Industry Understanding
 - Game development pipeline and live service requirements
 - IoT device lifecycle and connectivity challenges
+- Clean, organized fullstack applications from end-to-end
 - Real-time data processing and visualization needs
 - Cross-functional collaboration with designers and developers
 - Gamer since 2004
