@@ -6,41 +6,42 @@
 
 ### Tech Stacks
 
-### Game Development & Interactive Media
-- **Tools**: C#, C++, HLSL, DirectX
-- **Engines**: Unity, Unreal Engine (Blueprint), DirectX / C++ / HLSL (Custom)
-- **Systems**: Real-time multiplayer, AI state machines, Physics simulation, Player Locomotion, Algorithms
-- **Graphics**: Shader programming, Performance optimization
-- **Networking**: Server/Client Model, TCP/UDP, Authoritative server architecture, Remote Procedure Calls
+### Game Dev and Graphics
+Engines & Frameworks: Unity (C#), Unreal Engine (Blueprint), Custom Engines (DirectX/C++/HLSL).
+Languages: C#, C++, HLSL.
+Graphics & Rendering: Shader programming, GPU instancing, LOD systems, Performance optimization.
+Full Pipeline: Sculpting, Meshing, UV mapping, Rigging, Animation, Root Motion.
+Gameplay Systems: AI state machines, Physics simulation, Player Locomotion, Game Controls.
+Platforms: PC, Android, Console.
 
-### IoT & Connected Devices
-- **Protocols**: WebSocket, HTTP/HTTPS, TCP/UDP
-- **Platforms**: Node.js, Arduino IDE (C++)
-- **Cloud**: AWS IoT, Real-time data processing, Edge computing
-- **Hardware**: Arduino, Sensor integration
+### Networking and Multiplayer
+Architecture: Server/Client Model, Authoritative server architecture, State synchronization.
+Communication: Remote Procedure Calls (RPCs), TCP/UDP, WebSockets.
+Live Services: Matchmaking, Leaderboards, Analytics integration.
+Multiplayer Logic: Real-time multiplayer systems, Client-side prediction/reconciliation.
 
-### Full-Stack Web Architecture
-- **Backend**: TypeScript, JavaScript, Node.js, Express.js, MySQL/PostgreSQL
-- **Frontend**: TypeScript, JavaScript, React, Vue.js, Real-time dashboards
-- **DevOps**: CI/CD, Cloud deployment
-- **Security**: Parameterized queries, JWT, OAuth
+### Full-stack and Cloud Infrastructure
+Backend: Node.js, Express.js, TypeScript, JavaScript.
+Frontend: React, Vue.js, Interactive/Real-time dashboards, Sensor data charts.
+Databases & Data: MySQL, PostgreSQL, Time-series databases, Real-time analytics.
+Cloud & DevOps: AWS IoT, CI/CD, Cloud deployment, Third-party API integration.
+Security: JWT, OAuth, Parameterized queries.
 
-## Industry Skills
+### Backend and Data Services
+Runtime & Framework: Node.js, Express.ts (TypeScript/JavaScript).
+Databases: MySQL or SQL Server, Time-series databases.
+Data Processing: Real-time analytics, Python-based data tooling, Edge computing.
+API Architecture: REST (Express), WebSocket, HTTP/HTTPS.
 
-### For Game Studios
-- **Multiplayer Systems**: Client-server architecture, State synchronization, RPCs
-- **Live Services**: Matchmaking, Leaderboards, Analytics integration
-- **Full Pipeline**: Sculpting, Meshing, UV mapping, Rigging, Animation, Game Controls, and Root Motion in relation to game controls
-- **Performance**: Memory optimization, GPU instancing, LOD systems
-- **Cross-Platform**: PC, Android, Console
-- **Tooling**: Asset pipelines, Version control
+### Infrastructure and Environment
+Operating System: RHEL (Red Hat Enterprise Linux)
+DevOps & Automation: Python (Tooling/Scripting), CI/CD, Cloud deployment.
 
-### For IoT Companies
-- **Device Management**: Remote monitoring
-- **Data Processing**: Real-time analytics, Time-series databases
-- **Visualization**: Interactive dashboards, Sensor data charts
-- **Integration**: Third-party APIs, Cloud platforms
-- **Edge Computing**: Local processing, Offline capabilities
+###Hardware and Edge Systems
+Embedded Systems: Arduino, Arduino IDE (C++), Sensor integration.
+Edge Computing: Local processing, Edge computing, Offline capabilities.
+IoT Infrastructure: AWS IoT, Real-time data processing from hardware.
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
 
