@@ -34,7 +34,7 @@
 ### Hardware and Edge Systems
 - Embedded Systems: Arduino, Arduino IDE (C++), Sensor integration
 - Edge Computing: Local processing, Edge computing, Offline capabilities
-- IoT Infrastructure: AWS IoT, Real-time data processing from hardware
+- IoT Infrastructure: Real-time data processing, Sensor, Servers, and Databases
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
