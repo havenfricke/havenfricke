@@ -15,32 +15,26 @@
 - Platforms: PC, Android, Console.
 
 ### Networking and Multiplayer
-- Architecture: Server/Client Model, Authoritative server architecture, State synchronization.
-- Communication: Remote Procedure Calls (RPCs), TCP/UDP, WebSockets.
-- Live Services: Matchmaking, Leaderboards, Analytics integration.
-- Multiplayer Logic: Real-time multiplayer systems, Client-side prediction/reconciliation.
+- Architecture: Server/Client Model, Authoritative server architecture, State synchronization
+- Communication: Remote Procedure Calls (RPCs)
+- Live Services: Matchmaking, Analytics integration
+- Multiplayer Logic: Real-time multiplayer systems
 
 ### Full-stack and Cloud Infrastructure
-- Backend: Node.js, Express.js, TypeScript, JavaScript.
-- Frontend: React, Vue.js, Interactive/Real-time dashboards, Sensor data charts.
-- Databases & Data: MySQL, PostgreSQL, Time-series databases, Real-time analytics.
-- Cloud & DevOps: AWS IoT, CI/CD, Cloud deployment, Third-party API integration.
-- Security: JWT, OAuth, Parameterized queries.
-
-### Backend and Data Services
-- Runtime & Framework: Node.js, Express.ts (TypeScript/JavaScript).
-- Databases: MySQL or SQL Server, Time-series databases.
-- Data Processing: Real-time analytics, Python-based data tooling, Edge computing.
-- API Architecture: REST (Express), WebSocket, HTTP/HTTPS.
+- Backend: Node.js, Express.ts/js, TypeScript, JavaScript
+- Frontend: React, Vue.js, Interactive/Real-time dashboards, Interactive Data
+- Databases & Data: MySQL, Time-series databases
+- Cloud & DevOps: CI/CD, Cloud deployment
+- Security: JWT, OAuth, Parameterized queries
 
 ### Infrastructure and Environment
 - Operating System: RHEL (Red Hat Enterprise Linux)
-- DevOps & Automation: Python (Tooling/Scripting), CI/CD, Cloud deployment.
+- DevOps & Automation: Python (Tooling/Scripting), CI/CD, Cloud deployment
 
 ### Hardware and Edge Systems
-- Embedded Systems: Arduino, Arduino IDE (C++), Sensor integration.
-- Edge Computing: Local processing, Edge computing, Offline capabilities.
-- IoT Infrastructure: AWS IoT, Real-time data processing from hardware.
+- Embedded Systems: Arduino, Arduino IDE (C++), Sensor integration
+- Edge Computing: Local processing, Edge computing, Offline capabilities
+- IoT Infrastructure: AWS IoT, Real-time data processing from hardware
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
@@ -55,7 +49,7 @@
 - Game development pipeline and live service requirements
 - IoT device lifecycle and connectivity challenges
 - Real-time data processing and visualization needs
-- Cross-functional collaboration with designers and hardware teams
+- Cross-functional collaboration with designers and developers
 - Gamer since 2004
 
 ### Socials
