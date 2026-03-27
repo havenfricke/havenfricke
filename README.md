@@ -21,7 +21,7 @@
 - Multiplayer Logic: Real-time multiplayer systems
 
 ### Full-stack and Cloud Infrastructure
-- Backend: Node.js, Express.ts/js, TypeScript, JavaScript
+- Backend: Node.js, Express.ts/js, TypeScript, JavaScript, Python
 - Frontend: React, Vue.js, Interactive/Real-time dashboards, Interactive Data
 - Databases & Data: MySQL, Time-series databases
 - Cloud & DevOps: CI/CD, Cloud deployment
