@@ -39,12 +39,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=havenfricke&bg_color=1a1b27&color=ff6b6b&line=4facfe&point=00c6fb&area=true&area_color=1a1b27)
 
-### Technical Excellence
-- End-to-end development from hardware to cloud
-- Performance optimization for resource-constrained environments
-- Security-first approach for connected systems
-- Scalable architecture for growing user bases
-
 ### Industry Understanding
 - Game development pipeline and live service requirements
 - IoT device lifecycle and connectivity challenges
