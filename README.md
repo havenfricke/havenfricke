@@ -30,6 +30,7 @@
 ### Infrastructure and Environment
 - Operating System: RHEL (Red Hat Enterprise Linux)
 - DevOps & Automation: Python (Tooling/Scripting), CI/CD, Cloud deployment
+- Virtual Machine Deployment and Management
 
 ### Hardware and Edge Systems
 - Embedded Systems: Arduino, Arduino IDE (C++), Sensor integration
