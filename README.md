@@ -51,6 +51,8 @@
 - Clean, organized fullstack applications from end-to-end
 - Real-time data processing and visualization needs
 - Cross-functional collaboration with designers and developers
+- Infrastructure and cloud production deployment
+- Human-interface design feedback and reiteration
 - Gamer since 2004
 
 ### Socials
