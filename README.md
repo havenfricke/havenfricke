@@ -30,7 +30,7 @@
 - Security: JWT, OAuth, Parameterized queries
 
 ### Infrastructure and Environment
-- Operating System: RHEL (Red Hat Enterprise Linux)
+- RHEL (Red Hat Enterprise Linux), Amazon EC2
 - DevOps & Automation: Python (Tooling/Scripting), CI/CD, Cloud deployment
 - Virtual Machine Deployment and Management
 
