@@ -7,7 +7,7 @@
 ### Tech Stacks
 
 ### Game Dev and Graphics
-- Engines & Frameworks: Unity (C#), Unreal Engine (Blueprint), Custom Engines (DirectX/C++/HLSL).
+- Engines & Frameworks: Unity (C#), Unreal Engine (Blueprint).
 - Languages: C#.
 - Graphics & Rendering: Shader programming, GPU instancing, LOD systems, Performance optimization.
 - Full Pipeline: Sculpting, Meshing, UV mapping, Rigging, Animation, Root Motion.
