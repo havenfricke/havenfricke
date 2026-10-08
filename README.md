@@ -8,7 +8,7 @@
 
 ### Game Dev and Graphics
 - Engines & Frameworks: Unity (C#), Unreal Engine (Blueprint)
-- Languages: C
+- Languages: C#
 - Graphics & Rendering: LOD systems, Performance optimization
 - Full Pipeline: Sculpting, Meshing, UV mapping, Rigging, Animation, Root Motion
 - Gameplay Systems: AI state machines, Physics simulation, Player Locomotion, Game Controls
